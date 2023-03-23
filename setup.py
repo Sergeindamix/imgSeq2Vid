@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='imgSeq2Vid',
+    name='yomero-image-to-video',
     version='0.1.0',
     description='Converts a sequence of images into a video',
     author='yomero',
